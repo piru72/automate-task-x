@@ -3,7 +3,7 @@ require "combine_pdf"
 require "pdf-reader"
 
 # Function to read every text of every routine and generate a file name for each routine in this (Year_4_Semester_2_SectionB) format
-def file_name_creator(pdf,department)
+def file_name_creator(pdf, department)
 
   # Array to store the title of the routines
   routines = Array.new()
@@ -62,6 +62,23 @@ def file_saver(pages, routines, wanted_routine)
   end
 end
 
+# Taking the user input to find the desired semester
+def user_input()
+  puts "Year"
+  year = gets.chomp
+  puts "Semester"
+  semester = gets.chomp
+  puts "Section"
+  section = gets.chomp
+  puts "Department"
+  department = gets.chomp
+
+  department = department.upcase
+  section = section.upcase
+
+  return "Year_#{year}_Semester_#{semester}_Section#{section}_#{department}"
+end
+
 # The main objective of this program is to find the routine of the given semester
 def main()
 
@@ -71,10 +88,12 @@ def main()
   pdf = PDF::Reader.new(intput_file_name)
 
   # Creates a list of all the routines accordingly
-  routines = file_name_creator(pdf,"CSE")
+  routines = file_name_creator(pdf, "CSE")
   # adding an empty page
   routines << "LAST PAGE"
-  wanted_routine = "Year_3_Semester_1_SectionC_CSE"
+
+  # desired routine
+  wanted_routine = user_input()
 
   # saving the wanted routine
   file_saver(pages, routines, wanted_routine)
