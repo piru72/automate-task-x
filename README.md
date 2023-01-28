@@ -14,3 +14,15 @@
 -- Provide the Year , semester , section , department<br>
 -- Enjoy
 
+## FILE_NAME_EXTRACTOR
+-- Extracts file name from a given directory
+-- Currently works with any type of file
+-- Current bug - none noticed
+-- Future Plan more organized output
+
+#### How to use
+-- Have python in pc
+-- Provide the directory location
+-- Run the script
+-- Enjoy
+
