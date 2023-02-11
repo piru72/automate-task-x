@@ -23,7 +23,7 @@ for (let i = 1; i <= 7; i++) {
       $("td").each((i, el) => {
         var team_name = $(el).text().trim();
 
-        if (position.startsWith("AUST")) {
+        if (position.includes("[ Ahsanullah University of Science and Technology ]")) {
           var solved = $(el).find(".label-info").text().trim();
           var penalty = $(el).find(".label-default").text().trim();
           // console.log(solved);
