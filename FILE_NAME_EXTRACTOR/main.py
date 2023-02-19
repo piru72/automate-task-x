@@ -1,7 +1,7 @@
 import os
 
 # folder path
-dir_path = r'G:\\executives\\'
+dir_path = r'D:\\GITHUB_REPOS\\Small_tools\\FILE_NAME_EXTRACTOR\\files'
 
 # list to store files
 res = []
