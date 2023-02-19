@@ -7,9 +7,9 @@ class Image
   end
 end
 
-$userName = "piru72"
-$height = "300"
-$directory = "/LIFE_AT_AUST/master/2.%20Game%20Shots/"
+$userName = ""
+$height = ""
+$directory = ""
 
 def generate_link(file)
   name = file
@@ -20,14 +20,11 @@ def generate_link(file)
 end
 
 def generate_links(file_names)
-  number_of_lines = file_names.size
-  i = 0
   images = []
-  while (number_of_lines > 0)
+
+  file_names.size.times do |i|
     image = generate_link(file_names[i])
     images << image
-    number_of_lines -= 1
-    i += 1
   end
 
   return images
@@ -36,10 +33,8 @@ end
 def print_images(imageList)
   forGithubImages = File.new("forGithubImage.txt", "w")
 
-  i = 0
-  while (i < imageList.size)
+  imageList.size.times do |i|
     forGithubImages.puts imageList[i].link
-    i += 1
   end
 end
 
@@ -49,11 +44,14 @@ end
 
 def main()
   folder_path = "Images"
+  $userName = "piru72"
+  $height = "300"
+  $directory = "/LIFE_AT_AUST/master/2.%20Game%20Shots/"
+
   file_names = read_files_in_folder(folder_path)
-
   imageList = generate_links(file_names)
-
   print_images(imageList)
+
   puts "Done! Check forGithubImage.txt"
 end
 
