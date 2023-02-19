@@ -26,3 +26,29 @@
 -- Run the script
 -- Enjoy
 
+## LOVE_SHAPE
+-- Draws Love shape upon running
+
+## Automated_unlimiited_text
+-- Provide the text you want to type in code 
+-- Place the cursor where you want to text to be typed
+
+## BACKGROUND_REMOVER
+-- Removes simple background
+
+## Scroll_using_hand
+-- Scroll using yellow object
+
+## README_HELPER
+-- Helps creating links for readme.md
+
+## POSITION_SCRAPPER_FROM_CODEMARSHAL
+-- To scrap the position from codemarshal for AUST
+
+## FILE_NAME_EXTRACTOR
+-- Extracts the file name
+
+## DOCTOPDF
+-- Converts docs into pdf
+
+
