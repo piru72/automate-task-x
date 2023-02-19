@@ -54,6 +54,7 @@ def main()
   imageList = generate_links(file_names)
 
   print_images(imageList)
+  puts "Done! Check forGithubImage.txt"
 end
 
 main()
