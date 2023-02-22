@@ -1,0 +1,21 @@
+Problem Title
+ICPC to LCPC
+
+Problem Limit
+1s, 512 MB
+
+Problem Body
+In the ICPC regional contest, you have got rejected for the ICPC World Finals contest selection. But you want to participate in at least one International Contest.Fortunately, you have got a ti
+me travel machine and have gone to the past year's NNN to participate in an International Contest again.And after getting there you just discovered there is no ICPC at that time. Instead, they have an LC
+PC contest which is arranged only in Leap Year for a duration of 4 years. Since you wanted to participate in one International Contest, you want to participate in this LCPC world final contest.But there
+is a problem. Before 1582, for a year to be called a leap year, the requirements were not like those present. It followed a rule called Julian Rule. But now everyone follows the Gregorian Rule to calcula
+te if a year is a leap year or not.The rules are given below:Julian Rule: Every year that is a multiple of 4 is a leap year, i.e. has an extra day (February 29). Julian Rule only applied before the year
+1582.Gregorian Rule: The year is a multiple of 4 and not a multiple of 100 or the year is a multiple of 400.InputThe input contains a single positive integer NNN (1≤N≤30001 \le N \le 30001≤N≤3000), indic
+ating the year you have traveled to.OutputYou have to output a line containing “I can participate in LCPC” (w/o the quotes) if the traveled year is a Leap Year. Otherwise, “I have to travel back to the p
+ast” (w/o the quotes).
+
+Samples
+InputOutput1600
+I can participate in LCPC
+InputOutput1581
+I have to travel back to the past
