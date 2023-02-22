@@ -2,6 +2,10 @@ const request = require("request");
 const cheerio = require("cheerio");
 const fs = require("fs");
 
+// 1. npm init - y ->> will crate package .json file in the directory
+// 2. npm i cheerio ->> will install required modules for cheerio
+// 3. npm i request ->> will install required modules for request which basically sends request to webstie
+
 const fileName = "icpc-dhaka-22-preli.csv";
 const writeStream = fs.createWriteStream(fileName);
 
