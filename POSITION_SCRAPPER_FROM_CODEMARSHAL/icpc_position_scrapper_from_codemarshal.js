@@ -9,10 +9,12 @@ writeStream.write(`Rank,Team Name,Total Solved,Penalty\n`);
 
 //!FOR ME
 
-for (let i = 1; i <= 7; i++) {
-  const WebsiteLink =
-    "https://algo.codemarshal.org/contests/icpc-dhaka-22-preli/standings?page=" +
-    i;
+// for (let i = 1; i <= 7; i++) {
+//   const WebsiteLink =
+//     "https://algo.codemarshal.org/contests/icpc-dhaka-22-preli/standings?page=" +
+//     i;
+
+const WebsiteLink = "https://algo.codemarshal.org/contests/dhaka-22/standings";
 
   request(WebsiteLink, (error, response, html) => {
     if (!error && response.statusCode == 200) {
@@ -39,4 +41,4 @@ for (let i = 1; i <= 7; i++) {
   });
 
   //console.log(WebsiteLink);
-}
+
