@@ -1,0 +1,183 @@
+{
+    "youtube-playlist": {
+        "CSE3109": {
+            "Mohsena_Ashraf_MAM": {
+                "LSZqZco6Yjw": {
+                    "videoId": "LSZqZco6Yjw",
+                    "title": "01 Adder (Lecture 01)",
+                    "thumbnail": "https://i.ytimg.com/vi/LSZqZco6Yjw/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAXuSu7O5lmARfUTvRKu6aXTU4IqA"
+                },
+                "zZYg47QZd8I": {
+                    "videoId": "zZYg47QZd8I",
+                    "title": "02 How to build the table of ALU Part 01 (Lecture 02)",
+                    "thumbnail": "https://i.ytimg.com/vi/zZYg47QZd8I/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDWvmalD7xjTJ6JuCpNcnF6bc5ymg"
+                },
+                "C_xpEuSdCZs": {
+                    "videoId": "C_xpEuSdCZs",
+                    "title": "03 Effects of Output Carry (Lecture 03)",
+                    "thumbnail": "https://i.ytimg.com/vi/C_xpEuSdCZs/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDIJFFB7KAZHX7LuPaeC0nO9QLjWQ"
+                },
+                "ASf5-UI3-Hs": {
+                    "videoId": "ASf5-UI3-Hs",
+                    "title": "04 Logic Circuit Designing of ALU (Lecture 04)",
+                    "thumbnail": "https://i.ytimg.com/vi/ASf5-UI3-Hs/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGMgYyhjMA8=&rs=AOn4CLDx81A3Qqi9Jer3YnjNnzANq3aQOA"
+                },
+                "CcK8TDaVAks": {
+                    "videoId": "CcK8TDaVAks",
+                    "title": "05 Final Design of the ALU (Lecture 05)",
+                    "thumbnail": "https://i.ytimg.com/vi/CcK8TDaVAks/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDsRFDgpW8l3N07gkq45l43yFXISA"
+                },
+                "PldXzkUnXvw": {
+                    "videoId": "PldXzkUnXvw",
+                    "title": "06 Problem Solution of 9.17 (Lecture 06)",
+                    "thumbnail": "https://i.ytimg.com/vi/PldXzkUnXvw/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCNggLxqgGjVYy97-Dtt3dGB6Nwcg"
+                },
+                "Wh7-CPGHh94": {
+                    "videoId": "Wh7-CPGHh94",
+                    "title": "07 ALU Status Flags, Encoder, Decoder (Lecture 07)",
+                    "thumbnail": "https://i.ytimg.com/vi/Wh7-CPGHh94/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgQShBMA8=&rs=AOn4CLDfB9aIWgo4mZI7NhteKzKdIgAJqw"
+                },
+                "qazz6SMyfKE": {
+                    "videoId": "qazz6SMyfKE",
+                    "title": "08 Priority Encoder, Flip Flops, 3 bit Binary Counter (Lecture 08)",
+                    "thumbnail": "https://i.ytimg.com/vi/qazz6SMyfKE/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAONN39zzZQAIPoHEQrPzL9J8naVg"
+                },
+                "Jq9pTUnSrhs": {
+                    "videoId": "Jq9pTUnSrhs",
+                    "title": "09 Flip Flops and Synchronous Counter (Lecture 09)",
+                    "thumbnail": "https://i.ytimg.com/vi/Jq9pTUnSrhs/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYACnAWKAgwIABABGGUgRihHMA8=&rs=AOn4CLCpzd7mBFjpYddfETb4FjW-FRx13w"
+                },
+                "jyhjwiyDKFE": {
+                    "videoId": "jyhjwiyDKFE",
+                    "title": "10 Register, Shift Register, Serial transfer, Serial adder with Shift Register (Lecture 10)",
+                    "thumbnail": "https://i.ytimg.com/vi/LSZqZco6Yjw/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAXuSu7O5lmARfUTvRKu6aXTU4IqA"
+                },
+                "GkxXmxy8Of0": {
+                    "videoId": "GkxXmxy8Of0",
+                    "title": "11 Booth_s Algorithm and Multiplication (Lecture 11)",
+                    "thumbnail": "https://i.ytimg.com/vi/zZYg47QZd8I/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDWvmalD7xjTJ6JuCpNcnF6bc5ymg"
+                },
+                "LC24uRqDqd8": {
+                    "videoId": "LC24uRqDqd8",
+                    "title": "12 How to design a 5 X 5 bit booth multiplier (Lecture 12)",
+                    "thumbnail": "https://i.ytimg.com/vi/C_xpEuSdCZs/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDIJFFB7KAZHX7LuPaeC0nO9QLjWQ"
+                },
+                "IBPAb0eu_RQ": {
+                    "videoId": "IBPAb0eu_RQ",
+                    "title": "13 Modified Booth_s Algorithm (Lecture 13)",
+                    "thumbnail": "https://i.ytimg.com/vi/ASf5-UI3-Hs/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGMgYyhjMA8=&rs=AOn4CLDx81A3Qqi9Jer3YnjNnzANq3aQOA"
+                },
+                "QMvyWR33S3E": {
+                    "videoId": "QMvyWR33S3E",
+                    "title": "14 ROM Structure, Combinational Logic Implementation Using ROM, Types of ROM (Lecture 14)",
+                    "thumbnail": "https://i.ytimg.com/vi/CcK8TDaVAks/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDsRFDgpW8l3N07gkq45l43yFXISA"
+                },
+                "uOebSSlkeWQ": {
+                    "videoId": "uOebSSlkeWQ",
+                    "title": "15 RAM Structure, SRAM, DRAM, Write _ Read Operation, Binary Cell, RAM Construction (Lecture 15)",
+                    "thumbnail": "https://i.ytimg.com/vi/PldXzkUnXvw/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCNggLxqgGjVYy97-Dtt3dGB6Nwcg"
+                },
+                "bGS_qobSqZs": {
+                    "videoId": "bGS_qobSqZs",
+                    "title": "16 Programmable Logic Array - PLA, PLA Structure, PLA Examples, PLA Implementation (Lecture 16)",
+                    "thumbnail": "https://i.ytimg.com/vi/Wh7-CPGHh94/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgQShBMA8=&rs=AOn4CLDfB9aIWgo4mZI7NhteKzKdIgAJqw"
+                },
+                "_ISXRkzfrL8": {
+                    "videoId": "_ISXRkzfrL8",
+                    "title": "17 Interface, Communication between CPU and I_O, Methods of Parallel Transfer (Lecture 17)",
+                    "thumbnail": "https://i.ytimg.com/vi/qazz6SMyfKE/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAONN39zzZQAIPoHEQrPzL9J8naVg"
+                },
+                "yeNSWtSH7gc": {
+                    "videoId": "yeNSWtSH7gc",
+                    "title": "18 8255 PPI, Structure of 8255 PPI, Operational Modes of 8255 PPI - BSR Mode (Lecture 18)",
+                    "thumbnail": "https://i.ytimg.com/vi/Jq9pTUnSrhs/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYACnAWKAgwIABABGGUgRihHMA8=&rs=AOn4CLCpzd7mBFjpYddfETb4FjW-FRx13w"
+                },
+                "zHvHwkI8D1o": {
+                    "videoId": "zHvHwkI8D1o",
+                    "title": "19 Operational modes of 8255PPI, Control Word Programming, Introduction to Keyboard (Lecture 19)",
+                    "thumbnail": "https://i.ytimg.com/vi/jyhjwiyDKFE/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgQShDMA8=&rs=AOn4CLATa-rQtfjSJGohMX5R_HT45UsQlQ"
+                },
+                "A8xmIS0Hx8I": {
+                    "videoId": "A8xmIS0Hx8I",
+                    "title": "20 Interfacing with Keyboard, Output to a Seven Segment LED (Lecture 20)",
+                    "thumbnail": "https://i.ytimg.com/vi/GkxXmxy8Of0/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgWyhcMA8=&rs=AOn4CLAPTxmgCm5QbU-0Uk9_C-NzhEADxg"
+                },
+                "USy542yYdHo": {
+                    "videoId": "USy542yYdHo",
+                    "title": "21 Control Unit, Control Organization, States in a Control Unit (Lecture 21)",
+                    "thumbnail": "https://i.ytimg.com/vi/LC24uRqDqd8/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH8CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLD3XHqwVABGWLnC2tZdw5kg09LEkg"
+                },
+                "_bcyim2z2Ww": {
+                    "videoId": "_bcyim2z2Ww",
+                    "title": "22 Microprogram Control, Hard Wired Example-1 Part1, One Flip-Flop per State Method (Lecture 22 )",
+                    "thumbnail": "https://i.ytimg.com/vi/IBPAb0eu_RQ/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH8CYAC0AWKAgwIABABGGUgQChCMA8=&rs=AOn4CLC5WvpZH2Zb8jB6a7ZUmjrGdWoQQA"
+                },
+                "BiQa2CENBBM": {
+                    "videoId": "BiQa2CENBBM",
+                    "title": "23 Hard Wired Control Example-1 Part 02, One Flip-Flop per State Method (Lecture 23)",
+                    "thumbnail": "https://i.ytimg.com/vi/QMvyWR33S3E/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCa3Z7V44isNwHfKHKN0_0eQMgsJg"
+                },
+                "_px6gcn8i9A": {
+                    "videoId": "_px6gcn8i9A",
+                    "title": "24 Microprogram Control, Hardware Configuration of Microprogram Control (Lecture 24)",
+                    "thumbnail": "https://i.ytimg.com/vi/uOebSSlkeWQ/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGH8gOyg6MA8=&rs=AOn4CLD42I-MvW2NaveLzlXChQHMNlqdxQ"
+                },
+                "ENIy4dcaGHg": {
+                    "videoId": "ENIy4dcaGHg",
+                    "title": "25 Control Logic Design, Hard-Wired Control Example-02 (Lecture 25)",
+                    "thumbnail": "https://i.ytimg.com/vi/bGS_qobSqZs/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLC6FGqhSRljtmuJG5_aByQj76mlog"
+                },
+                "hxYzazJoxVI": {
+                    "videoId": "hxYzazJoxVI",
+                    "title": "26 Hardwired Control Example 2- Sequence Register with Decoder Method, PLA Control (Lecture 26)",
+                    "thumbnail": "https://i.ytimg.com/vi/_ISXRkzfrL8/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDwhI-2v4tp2vYLen07c_r44JmOHQ"
+                },
+                "TW1xyXVyc5o": {
+                    "videoId": "TW1xyXVyc5o",
+                    "title": "27 SAP I Introduction and Architecture in Bangla, SAP 1 Instruction Set Part 01 (Lecture 27)",
+                    "thumbnail": "https://i.ytimg.com/vi/yeNSWtSH7gc/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCDkIqziay9lpO_w3s2RU-BSReK-Q"
+                },
+                "LGYWUb-4jEQ": {
+                    "videoId": "LGYWUb-4jEQ",
+                    "title": "28 SAP I Instruction Set Part 02, OP Codes, LDA Instruction, Timing Diagram (Lecture 28)",
+                    "thumbnail": "https://i.ytimg.com/vi/zHvHwkI8D1o/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDDjTlwOrDNVN3yNHT9egz9l5CpdQ"
+                },
+                "B388Qs6OfK8": {
+                    "videoId": "B388Qs6OfK8",
+                    "title": "29 Sap-I Instruction Set Part 03_ ADD_SUB, HLT, OUT Instruction_ SAP-I Animation (Lecture 29)",
+                    "thumbnail": "https://i.ytimg.com/vi/A8xmIS0Hx8I/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAfshxCQv9XRGlaWJmOFPhLuipVyw"
+                },
+                "Zr4z1C9yaT4": {
+                    "videoId": "Zr4z1C9yaT4",
+                    "title": "30 SAP-2 Introduction, Architecture and Instructions (Lecture 30)",
+                    "thumbnail": "https://i.ytimg.com/vi/USy542yYdHo/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCa60X56XjOK7yW4zWBZt2zknCcYA"
+                },
+                "OOAPdzCourU": {
+                    "videoId": "OOAPdzCourU",
+                    "title": "31 SAP   2 Instructions, Handshaking and Math Solving (Lecture 31)",
+                    "thumbnail": "https://i.ytimg.com/vi/_bcyim2z2Ww/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDX-W6Emp5G6CyrUPFTqfbum_fhzw"
+                },
+                "Wuf__t0ZTf0": {
+                    "videoId": "Wuf__t0ZTf0",
+                    "title": "32 SAP   3 Introduction, Architecture, Instructions, Extended Instructions (Lecture 32)",
+                    "thumbnail": "https://i.ytimg.com/vi/BiQa2CENBBM/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCS_S770mgdct-Lk6m1oySWzN5vJw"
+                },
+                "ZvxDdmi09Dc": {
+                    "videoId": "ZvxDdmi09Dc",
+                    "title": "33 SAP-3 Last Part, Extended Instruction, Stack Instruction_ Push _ Pop (Lecture 33)",
+                    "thumbnail": "https://i.ytimg.com/vi/_px6gcn8i9A/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBAXcBLW2MNIMHS59CpHDhm86q-nQ"
+                },
+                "WHCOuCqDHpM": {
+                    "videoId": "WHCOuCqDHpM",
+                    "title": "34 Review Class 1 + Quiz 1,2 Solutions",
+                    "thumbnail": "https://i.ytimg.com/vi/ENIy4dcaGHg/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBsSQnuPVjTSHaedUoMZw8Bw4Amxw"
+                },
+                "vYR82RhE2OM": {
+                    "videoId": "vYR82RhE2OM",
+                    "title": "35 Review Class 2 and Quiz 3 Solution",
+                    "thumbnail": "https://i.ytimg.com/vi/hxYzazJoxVI/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLA4RNlPxB0MFtE4uW1mj9N9aQi1Zw"
+                }
+            }
+        }
+    }
+}
