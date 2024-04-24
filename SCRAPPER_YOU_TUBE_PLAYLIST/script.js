@@ -8,7 +8,10 @@ var videoId = "";
 var title = "";
 var thumbnail = "";
 var playlistData = {};
+
 for (i = 0; i < 5; i++) {
+
+  
   var el = els[i];
   var t = thumbnails[i];
 
@@ -20,4 +23,5 @@ for (i = 0; i < 5; i++) {
     thumbnail: t.src,
   };
 }
+
 console.log(playlistData);

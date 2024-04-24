@@ -2,7 +2,7 @@ const request = require("request");
 const cheerio = require("cheerio");
 const fs = require("fs");
 
-const fileName = "icpc-dhaka-22-preli.csv";
+const fileName = "icpc-dhaka-23-preli.csv";
 const writeStream = fs.createWriteStream(fileName);
 
 writeStream.write(`Rank,Team Name,Total Solved,Penalty\n`);
@@ -14,12 +14,12 @@ writeStream.write(`Rank,Team Name,Total Solved,Penalty\n`);
 //     "https://algo.codemarshal.org/contests/icpc-dhaka-22-preli/standings?page=" +
 //     i;
 
-const WebsiteLink = "https://algo.codemarshal.org/contests/dhaka-22/standings";
+const WebsiteLink = "https://bapsoj.org/contests/icpc-preliminary-dhaka-2023/standings";
 
   request(WebsiteLink, (error, response, html) => {
     if (!error && response.statusCode == 200) {
       const $ = cheerio.load(html);
-      // console.log(html);
+      console.log(html);
       var position = "";
       var rank = "";
       $("td").each((i, el) => {

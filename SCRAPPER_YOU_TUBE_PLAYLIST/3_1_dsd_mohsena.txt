@@ -1,0 +1,202 @@
+{
+    "iyPHirikUPg": {
+        "videoId": "iyPHirikUPg",
+        "title": "Chapter 01: Lecture 01 Internet Intro",
+        "thumbnail": "https://i.ytimg.com/vi/iyPHirikUPg/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGBEgXyhyMA8=&rs=AOn4CLBYJS3zQX2FId06DETC3Lp9kZA2LA"
+    },
+    "nN85vYbNjMM": {
+        "videoId": "nN85vYbNjMM",
+        "title": "Chapter 01: Lecture 02 Network Core",
+        "thumbnail": "https://i.ytimg.com/vi/nN85vYbNjMM/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCnrfurlaEciX5NhB3PqYBqliurOQ"
+    },
+    "JpN6aMMCfx8": {
+        "videoId": "JpN6aMMCfx8",
+        "title": "Chapter 01: Lecture 03 Network Structure and Packet Delays",
+        "thumbnail": "https://i.ytimg.com/vi/JpN6aMMCfx8/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGA8gZShlMA8=&rs=AOn4CLC36-2RRaw_eDe0pP-zhz3gkUE9Jw"
+    },
+    "lqKsx9U8F8E": {
+        "videoId": "lqKsx9U8F8E",
+        "title": "Chapter 01: Lecture 03 Throughput and Network Layers",
+        "thumbnail": "https://i.ytimg.com/vi/lqKsx9U8F8E/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGBEgXyhyMA8=&rs=AOn4CLA1mMLQ21dcZrp6yb7Ri8Z0uUKaMQ"
+    },
+    "p33q6rJ_Afc": {
+        "videoId": "p33q6rJ_Afc",
+        "title": "Chapter 01: Lecture 05 Network Security Attacks",
+        "thumbnail": "https://i.ytimg.com/vi/p33q6rJ_Afc/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFsgWyhlMA8=&rs=AOn4CLDhW4hddOEosOu7Kbfmm7CyVTDQxQ"
+    },
+    "8ho2BRO3Qs0": {
+        "videoId": "8ho2BRO3Qs0",
+        "title": "Chapter 02: Lecture 06 Application Layer (Principles)",
+        "thumbnail": "https://i.ytimg.com/vi/8ho2BRO3Qs0/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLASYZCgBEcdEgn0Q7b7ROtc_ZGEjQ"
+    },
+    "0PJCgJeDo_8": {
+        "videoId": "0PJCgJeDo_8",
+        "title": "Chapter 02: Lecture 07 Application Layer (HTTP Protocol)",
+        "thumbnail": "https://i.ytimg.com/vi/0PJCgJeDo_8/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCr73Wn3JeNzp710iOnkg641I_K9A"
+    },
+    "r66XKko2pGg": {
+        "videoId": "r66XKko2pGg",
+        "title": "Chapter 02: Lecture 08 Application Layer (Cookie and Web cache)",
+        "thumbnail": "https://i.ytimg.com/vi/r66XKko2pGg/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLACoo8Or2Spf4x9BCIyYiZOAx95dw"
+    },
+    "7PAbdYOj9J8": {
+        "videoId": "7PAbdYOj9J8",
+        "title": "Chapter 02: Lecture 09 Application Layer (FTP and SMTP)",
+        "thumbnail": "https://i.ytimg.com/vi/7PAbdYOj9J8/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFcgVyhlMA8=&rs=AOn4CLBCXYypwlhboXrXA7WyRbH2RZYJZg"
+    },
+    "YtyEVP0kjP0": {
+        "videoId": "YtyEVP0kjP0",
+        "title": "Chapter 02: Lecture 10 Application Layer (DNS Servers)",
+        "thumbnail": "https://i.ytimg.com/vi/YtyEVP0kjP0/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLD4dSxjBcR57R_VdOaEaKF377H0jA"
+    },
+    "ib8ZNeuHMj4": {
+        "videoId": "ib8ZNeuHMj4",
+        "title": "Chapter 03: Lecture 11 Transport Layer (Services)",
+        "thumbnail": "https://i.ytimg.com/vi/ib8ZNeuHMj4/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLA12LPa1wyjbsTJB_b50zHgY8pwpg"
+    },
+    "qgyw-GYobVo": {
+        "videoId": "qgyw-GYobVo",
+        "title": "Chapter 03: Lecture 12 Transport Layer (Demultiplexing and UDP)",
+        "thumbnail": "https://i.ytimg.com/vi/qgyw-GYobVo/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFogWihlMA8=&rs=AOn4CLDY552F5CaxjPclHJ3qSBcMoPUi4g"
+    },
+    "w_lbGXV4H-c": {
+        "videoId": "w_lbGXV4H-c",
+        "title": "Chapter 04: Lecture 13 Network Layer (Intro and Services)",
+        "thumbnail": "https://i.ytimg.com/vi/nN85vYbNjMM/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCnrfurlaEciX5NhB3PqYBqliurOQ"
+    },
+    "XbrgOh9KRBU": {
+        "videoId": "XbrgOh9KRBU",
+        "title": "Chapter 04: Lecture 14 Network Layer (Virtual Circuit and Datagram Network and Router)",
+        "thumbnail": "https://i.ytimg.com/vi/iWJjhaGPdjw/hqdefault.jpg?sqp=-oaymwEwCKgBEF5IWvKriqkDIwgBFQAAiEIYAfABAfgB_gmAAtAFigIMCAAQARglIEsofzAP&rs=AOn4CLC7NCZvcZGCRUxi_Qa2ky6F5NlIJw"
+    },
+    "Lj-gShWirEw": {
+        "videoId": "Lj-gShWirEw",
+        "title": "Chapter 04: Lecture 15 Network Layer (IP datagram and Fragmentation)",
+        "thumbnail": "https://i.ytimg.com/vi/iyPHirikUPg/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGBEgXyhyMA8=&rs=AOn4CLBYJS3zQX2FId06DETC3Lp9kZA2LA"
+    },
+    "Re0sUBRA1p8": {
+        "videoId": "Re0sUBRA1p8",
+        "title": "Chapter 04: Lecture 16 Network Layer (DHCP, NAT and ICMP)",
+        "thumbnail": "https://i.ytimg.com/vi/nN85vYbNjMM/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCnrfurlaEciX5NhB3PqYBqliurOQ"
+    },
+    "JuYwiyWqIHo": {
+        "videoId": "JuYwiyWqIHo",
+        "title": "Chapter 04: Lecture 17 Network Layer (IPv6 and Tunneling)",
+        "thumbnail": "https://i.ytimg.com/vi/JpN6aMMCfx8/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGA8gZShlMA8=&rs=AOn4CLC36-2RRaw_eDe0pP-zhz3gkUE9Jw"
+    },
+    "GnAfSMa8AX4": {
+        "videoId": "GnAfSMa8AX4",
+        "title": "Chapter 04: Lecture 18.1 Network Layer (Routing Algorithm Basic)",
+        "thumbnail": "https://i.ytimg.com/vi/lqKsx9U8F8E/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGBEgXyhyMA8=&rs=AOn4CLA1mMLQ21dcZrp6yb7Ri8Z0uUKaMQ"
+    },
+    "04s8kOqs_JM": {
+        "videoId": "04s8kOqs_JM",
+        "title": "Chapter 04: Lecture 18.2 Network Layer (Link State Algorithm)",
+        "thumbnail": "https://i.ytimg.com/vi/p33q6rJ_Afc/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFsgWyhlMA8=&rs=AOn4CLDhW4hddOEosOu7Kbfmm7CyVTDQxQ"
+    },
+    "Y2JhTZpfXoo": {
+        "videoId": "Y2JhTZpfXoo",
+        "title": "Chapter 04: Lecture 19 Network Layer (Distance Vector Routing Algorithm)",
+        "thumbnail": "https://i.ytimg.com/vi/8ho2BRO3Qs0/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLASYZCgBEcdEgn0Q7b7ROtc_ZGEjQ"
+    },
+    "DkwV7al1-VQ": {
+        "videoId": "DkwV7al1-VQ",
+        "title": "Chapter 04: Lecture 20 Network Layer (Distance Vector Routing Algorithm and Count to Infinity)",
+        "thumbnail": "https://i.ytimg.com/vi/0PJCgJeDo_8/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCr73Wn3JeNzp710iOnkg641I_K9A"
+    },
+    "64Vcesjcs9E": {
+        "videoId": "64Vcesjcs9E",
+        "title": "Chapter 04: Lecture 21 Network Layer (Hierarchical Routing)",
+        "thumbnail": "https://i.ytimg.com/vi/r66XKko2pGg/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLACoo8Or2Spf4x9BCIyYiZOAx95dw"
+    },
+    "reKzw-7ub04": {
+        "videoId": "reKzw-7ub04",
+        "title": "Chapter 04: Lecture 22 Network Layer (RIP and OSPF)",
+        "thumbnail": "https://i.ytimg.com/vi/7PAbdYOj9J8/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFcgVyhlMA8=&rs=AOn4CLBCXYypwlhboXrXA7WyRbH2RZYJZg"
+    },
+    "JETEI_UiIqI": {
+        "videoId": "JETEI_UiIqI",
+        "title": "Chapter 04: Lecture 23 Network Layer (BGP)",
+        "thumbnail": "https://i.ytimg.com/vi/YtyEVP0kjP0/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLD4dSxjBcR57R_VdOaEaKF377H0jA"
+    },
+    "oZ-HPTmvo9k": {
+        "videoId": "oZ-HPTmvo9k",
+        "title": "Chapter 04: Lecture 24 Network Layer (Broadcast and Multicast)",
+        "thumbnail": "https://i.ytimg.com/vi/ib8ZNeuHMj4/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLA12LPa1wyjbsTJB_b50zHgY8pwpg"
+    },
+    "FGWtdUUgKPw": {
+        "videoId": "FGWtdUUgKPw",
+        "title": "Chapter 03: Lecture 25 Transport Layer (rdt1, rdt2.2 Protocol Part 01)",
+        "thumbnail": "https://i.ytimg.com/vi/qgyw-GYobVo/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFogWihlMA8=&rs=AOn4CLDY552F5CaxjPclHJ3qSBcMoPUi4g"
+    },
+    "3UWrSPzqfys": {
+        "videoId": "3UWrSPzqfys",
+        "title": "Lecture 26 Principles of RDT_rdt 1.0 2",
+        "thumbnail": "https://i.ytimg.com/vi/w_lbGXV4H-c/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGA8gZShOMA8=&rs=AOn4CLB4_bwGQYeR2_0Cll7ZbWIjRQZOTw"
+    },
+    "cUxE1tXYLMU": {
+        "videoId": "cUxE1tXYLMU",
+        "title": "Lecture 27 RDT 2.1, 2.2",
+        "thumbnail": "https://i.ytimg.com/vi/XbrgOh9KRBU/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGA8gZShOMA8=&rs=AOn4CLDW9a27bKBqq9c3G0_v-kpe1090UQ"
+    },
+    "uzNxld9JcBs": {
+        "videoId": "uzNxld9JcBs",
+        "title": "Lecture 28 RDT 3.0, GBN, SR",
+        "thumbnail": "https://i.ytimg.com/vi/Lj-gShWirEw/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGDAgXShyMA8=&rs=AOn4CLD2rqLdPMZIxxptAE4K2ftAAcmAWA"
+    },
+    "brSycJT2rQc": {
+        "videoId": "brSycJT2rQc",
+        "title": "Lecture 30 TCP Segment, Congestion Control",
+        "thumbnail": "https://i.ytimg.com/vi/Re0sUBRA1p8/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFkgWShlMA8=&rs=AOn4CLDbsMeKP_8pCyNr51ZQUklpNy51Hw"
+    },
+    "hAUIn-viOvc": {
+        "videoId": "hAUIn-viOvc",
+        "title": "Lecture 32 Introduction Data Link Layer",
+        "thumbnail": "https://i.ytimg.com/vi/JuYwiyWqIHo/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgPyg8MA8=&rs=AOn4CLBdN7bRxuBi5_7uB2_tUFPY7k9X4w"
+    },
+    "KYrCqdNViKc": {
+        "videoId": "KYrCqdNViKc",
+        "title": "Lecture 32-33 Error Detection and Correction Parity, Checksum, CRC  Multiple Access",
+        "thumbnail": "https://i.ytimg.com/vi/GnAfSMa8AX4/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEQgWyhyMA8=&rs=AOn4CLDpPSych2zzw92rgsDqVS2nhGc5nA"
+    },
+    "HDuiBU5jAdQ": {
+        "videoId": "HDuiBU5jAdQ",
+        "title": "Lecture 33 Multiple Access Protocol, TDMA, FDMA",
+        "thumbnail": "https://i.ytimg.com/vi/04s8kOqs_JM/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCBgM3wS4HJfsZNavdqt7OYsXNIJg"
+    },
+    "GUTjfvLa7N8": {
+        "videoId": "GUTjfvLa7N8",
+        "title": "Lecture 34 Random Access, ALOHA, CSMA",
+        "thumbnail": "https://i.ytimg.com/vi/Y2JhTZpfXoo/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGCkgVyhyMA8=&rs=AOn4CLAKEogx42Nb3hD5pU28Zjfok7tDAA"
+    },
+    "dwNNWWOHNBw": {
+        "videoId": "dwNNWWOHNBw",
+        "title": "Lecture 34 Taking turn, MAC Address",
+        "thumbnail": "https://i.ytimg.com/vi/DkwV7al1-VQ/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGCUgVihyMA8=&rs=AOn4CLBk1mrLAdPQiSsvtTlzu0QW1yZ1lA"
+    },
+    "WF9LebAiZr4": {
+        "videoId": "WF9LebAiZr4",
+        "title": "Lecture 35 ARP, Ethernet",
+        "thumbnail": "https://i.ytimg.com/vi/64Vcesjcs9E/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGCsgWihyMA8=&rs=AOn4CLDDqdeORx97pMhJYBjALluwGJ_onw"
+    },
+    "femy9fs87Es": {
+        "videoId": "femy9fs87Es",
+        "title": "Lecture 36 Network Security, Caesar Cipher, Mono-alphabetic Cipher",
+        "thumbnail": "https://i.ytimg.com/vi/reKzw-7ub04/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGDggYShyMA8=&rs=AOn4CLB5zy4IjrntSHaDLzNE2hOf5TBx7w"
+    },
+    "ZwKGpghSgec": {
+        "videoId": "ZwKGpghSgec",
+        "title": "Lecture 37 Polyalphabetic Encryption, Public Key Cryptography",
+        "thumbnail": "https://i.ytimg.com/vi/JETEI_UiIqI/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGDQgXyhyMA8=&rs=AOn4CLAxXmkmdKwzC8djxszm_2RggVYj1g"
+    },
+    "YRTXT71wMvM": {
+        "videoId": "YRTXT71wMvM",
+        "title": "Lecture 38 RSA, Hash Function, MAC",
+        "thumbnail": "https://i.ytimg.com/vi/oZ-HPTmvo9k/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAkIuZe74dsIJpOc6O1S1paOyYIqg"
+    },
+    "qOyfV3D5yLU": {
+        "videoId": "qOyfV3D5yLU",
+        "title": "Lecture 39 Digital Signature",
+        "thumbnail": "https://i.ytimg.com/vi/FGWtdUUgKPw/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCWn6yVQodRuiBB6lwcSzk9BAVLrg"
+    }
+}
